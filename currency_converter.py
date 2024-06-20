@@ -18,7 +18,7 @@ while True:
 
 
 import requests
-# API use
+
 url = f"https://api.apilayer.com/fixer/convert?to={target_currency}&from={initial_currency}&amount={amount}"
 
 payload = {}
