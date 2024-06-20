@@ -1,3 +1,4 @@
+# starting the program
 import requests
 
 initial_currency = input("please insert initial currency : ")
